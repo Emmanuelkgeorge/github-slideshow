@@ -6,7 +6,7 @@ title: "Welcome to our second slide!"
 
 ---
 
-Hi I am Emmanuel
+I am From Kuruppanthara
 
 Use the left arrow to go back!
 
